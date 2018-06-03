@@ -29,11 +29,21 @@
     },
     "require": {
         "yiisoft/yii2": "^2.0",
-        "ckeditor/ckeditor": "dev-full/4.7.x as 4.7.1"
+        "ckeditor/ckeditor": "dev-master"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*"
     },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        },
+        {
+            "type": "vcs",
+            "url": "https://github.com/pooriaanv/ckeditor-dev"
+        }
+    ],
     "autoload": {
         "psr-4": {
             "dosamigos\\ckeditor\\": "src"
