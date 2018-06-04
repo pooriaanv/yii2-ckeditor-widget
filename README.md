@@ -1,4 +1,4 @@
-CKEditor Widget for Yii2 hello
+CKEditor Widget for Yii2 hello2
 ========================
 
 [![Latest Version](https://img.shields.io/github/tag/2amigos/yii2-ckeditor-widget.svg?style=flat-square&label=release)](https://github.com/2amigos/yii2-ckeditor-widget/tags)
